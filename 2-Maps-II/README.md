@@ -1,0 +1,1 @@
+![Bifurcation Diagram and Lyapunov Exponent Plot](bifurcation_lyapunov.png)
